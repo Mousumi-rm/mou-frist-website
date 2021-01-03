@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 255, 128);
+}
+
+h2{
+position: relative;
+left: 50%;
+bottom: 10px;
+color:red;
+}
+
+#navbar{
+    background-color: gray ;
+    position: relative;
+    margin: auto;
+    bottom: 15px;
+padding-left: 10px;
+
+}
